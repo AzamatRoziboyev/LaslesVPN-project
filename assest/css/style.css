@@ -50,3 +50,11 @@ nav > .menu {
 .auth-buttons > .sign-up {
   border: 2px solid #f53855;
 }
+/* =========about============= */
+/* =========================== */
+.about {
+    width: 1280px;
+    height: 478px;
+    margin: auto;
+    border: 1px solid red;
+}
