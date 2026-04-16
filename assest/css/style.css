@@ -25,6 +25,7 @@ nav>.logo {
   justify-content: space-between;
   align-items: center;
 }
+
 nav img {
   width: 40px;
 }
@@ -124,6 +125,7 @@ nav>.menu {
 .status-container .box-in img {
   padding-right: 20px;
 }
+
 /* ====main-1====== */
 .main-1 {
   width: 1152px;
@@ -176,63 +178,76 @@ nav>.menu {
 .teks small {
   color: gray;
 }
+
 /* ====main-2====== */
 .main-2 {
   width: 1152px;
   height: 950px;
   margin: auto;
   margin-top: 20px;
-  
+
 }
+
 .main-2 .box {
   display: flex;
   justify-content: space-around;
 }
+
 .main-2 .div1 {
   text-align: center;
 }
+
 .main-2 .div1 h4 {
   font-size: 30px;
   font-weight: 400;
 }
+
 .main-2 .div1 small {
   color: gray;
 }
+
 .main-2 .box1 {
-    width: 370px;
-    height: 836px;
-    border: 1px solid gray;
-    border-radius: 10px;
-    margin-top: 50px;
-    text-align: center;
-    padding: 60px;
-    flex-wrap: wrap;
+  width: 370px;
+  height: 836px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  margin-top: 50px;
+  text-align: center;
+  padding: 60px;
+  flex-wrap: wrap;
 }
+
 .main-2 .box1 img {
   width: 159px;
   height: 182px;
 }
+
 .main-2 .box1 .div2 p {
   color: gray;
   margin-top: 30px;
   margin-bottom: 40px;
 }
+
 .main-2 .box1 small {
   color: gray;
 }
+
 .main-2 .box1 i {
   margin-top: 20px;
   color: green;
   margin-right: 10px;
 }
-.main-2 .box1 .div3  {
+
+.main-2 .box1 .div3 {
   margin-top: 220px;
 }
+
 .main-2 .box1 .div3 p {
   color: gray;
   margin-bottom: 30px;
   font-size: 25px;
 }
+
 .main-2 .box1 .div3 button {
   width: 131px;
   height: 49px;
@@ -241,6 +256,7 @@ nav>.menu {
   background-color: white;
   color: red;
 }
+
 /* =======main-3========== */
 /* ======================= */
 .main-3 {
@@ -249,34 +265,40 @@ nav>.menu {
   margin: auto;
   padding: 20px;
   margin-top: 50px;
-  
+
 }
+
 .main-3 .h5 {
   width: 384px;
   height: 150px;
   margin: auto;
   text-align: center;
 }
+
 .main-3 .h5 h5 {
   font-size: 35px;
   font-weight: 300;
 }
+
 .main-3 .h5 p {
   color: gray;
 }
+
 .main-3 .box4 {
   width: 1088px;
   height: 553px;
   margin: auto;
   padding: 30px;
 }
+
 .main-3 .box4 img {
   width: 1000px;
   height: 553px;
 }
+
 /* ======main-4===== */
 /* ================= */
-.main-4  {
+.main-4 {
   width: 1152px;
   height: 80px;
   margin: auto;
@@ -285,10 +307,12 @@ nav>.menu {
   align-items: center;
   margin-top: 20px;
 }
+
 .main-4 div img {
   width: 165px;
   height: 56px;
 }
+
 /* ====main-5========= */
 /* =================== */
 .main-5 {
@@ -301,20 +325,24 @@ nav>.menu {
   align-items: center;
   padding: 52px;
   border-radius: 15px;
-   box-shadow: 0px 0px 1px 1px rgb(0, 0, 0, 0.1);
-   margin-top: 50px;
+  box-shadow: 0px 0px 1px 1px rgb(0, 0, 0, 0.1);
+  margin-top: 50px;
 }
+
 .main-5 .h6 div {
   width: 427px;
   height: 96px;
 }
+
 .h6 div h6 {
   font-size: 30px;
   margin-bottom: 4px;
 }
+
 .h6 div p {
   color: gray;
 }
+
 .main-5 .button button {
   width: 220px;
   height: 56px;
@@ -324,6 +352,7 @@ nav>.menu {
   background-color: #f53855;
   color: white;
 }
+
 /* ======footer========= */
 /* ===================== */
 footer {
@@ -335,10 +364,12 @@ footer {
   align-items: center;
   margin-top: 50px;
 }
+
 .birinchi {
   width: 373px;
   height: 244px;
 }
+
 .birinchi .img1 {
   width: 132px;
   height: 32px;
@@ -346,15 +377,18 @@ footer {
   align-items: center;
   margin-bottom: 30px;
 }
+
 .birinchi .img1 img {
   width: 40px;
   margin-right: 5px;
 }
+
 .birinchi small {
   color: gray;
   margin-bottom: 20px;
   font-size: 15px;
 }
+
 .birinchi .i i {
   font-size: 25px;
   background-color: white;
@@ -364,8 +398,9 @@ footer {
   color: #f53855;
   margin-top: 20px;
   margin-bottom: 20px;
- margin-right: 10px;
+  margin-right: 10px;
 }
+
 .ikkinchi {
   width: 179px;
   height: 244px;
@@ -373,27 +408,30 @@ footer {
   flex-direction: column;
   justify-content: space-around;
 }
+
 .ikkinchi p {
   color: gray;
 }
+
 .ikkinchi .p1 {
   color: gray;
   font-weight: 800;
 }
+
 .uchinchi {
   width: 179px;
   height: 244px;
 }
+
 .uchinchi .p2 {
   color: gray;
   margin-top: 10px;
-  
+
 }
+
 .uchinchi .p1 {
   font-weight: 800;
   padding-top: 7px;
   margin-bottom: 15px;
   color: gray;
 }
-
-
