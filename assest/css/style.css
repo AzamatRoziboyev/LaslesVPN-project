@@ -237,4 +237,46 @@ nav>.menu {
   background-color: white;
   color: red;
 }
+/* =======main-3========== */
+/* ======================= */
+.main-3 {
+  width: 1152px;
+  height: 740px;
+  margin: auto;
+  padding: 20px;
+  margin-top: 50px;
+  
+}
+.main-3 .h5 {
+  width: 384px;
+  height: 150px;
+  margin: auto;
+  text-align: center;
+}
+.main-3 .h5 h5 {
+  font-size: 35px;
+  font-weight: 300;
+}
+.main-3 .h5 p {
+  color: gray;
+}
+.main-3 .box4 {
+  width: 1088px;
+  height: 553px;
+  margin: auto;
+  padding: 30px;
+}
+.main-3 .box4 img {
+  width: 1000px;
+  height: 553px;
+}
+/* ======main-4===== */
+/* ================= */
+.main-4  {
+  width: 1152px;
+  height: 80px;
+  border: 1px solid red;
+  margin: auto;
+
+}
 
