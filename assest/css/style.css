@@ -25,6 +25,9 @@ nav>.logo {
   justify-content: space-between;
   align-items: center;
 }
+nav img {
+  width: 40px;
+}
 
 nav>.menu {
   width: 440px;
@@ -203,6 +206,7 @@ nav>.menu {
     margin-top: 50px;
     text-align: center;
     padding: 60px;
+    flex-wrap: wrap;
 }
 .main-2 .box1 img {
   width: 159px;
@@ -275,8 +279,121 @@ nav>.menu {
 .main-4  {
   width: 1152px;
   height: 80px;
-  border: 1px solid red;
   margin: auto;
-
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
 }
+.main-4 div img {
+  width: 165px;
+  height: 56px;
+}
+/* ====main-5========= */
+/* =================== */
+.main-5 {
+  width: 1152px;
+  height: 208px;
+  margin-top: 20px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 52px;
+  border-radius: 15px;
+   box-shadow: 0px 0px 1px 1px rgb(0, 0, 0, 0.1);
+   margin-top: 50px;
+}
+.main-5 .h6 div {
+  width: 427px;
+  height: 96px;
+}
+.h6 div h6 {
+  font-size: 30px;
+  margin-bottom: 4px;
+}
+.h6 div p {
+  color: gray;
+}
+.main-5 .button button {
+  width: 220px;
+  height: 56px;
+  border: 1px solid red;
+  border-radius: 10px;
+  font-size: 15px;
+  background-color: #f53855;
+  color: white;
+}
+/* ======footer========= */
+/* ===================== */
+footer {
+  width: 1286px;
+  height: 344px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+.birinchi {
+  width: 373px;
+  height: 244px;
+}
+.birinchi .img1 {
+  width: 132px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.birinchi .img1 img {
+  width: 40px;
+  margin-right: 5px;
+}
+.birinchi small {
+  color: gray;
+  margin-bottom: 20px;
+  font-size: 15px;
+}
+.birinchi .i i {
+  font-size: 25px;
+  background-color: white;
+  box-shadow: 0px 0px 2px 2px rgb(0, 0, 0, 0.1);
+  padding: 2px 2px 5px 2px;
+  border-radius: 50%;
+  color: #f53855;
+  margin-top: 20px;
+  margin-bottom: 20px;
+ margin-right: 10px;
+}
+.ikkinchi {
+  width: 179px;
+  height: 244px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.ikkinchi p {
+  color: gray;
+}
+.ikkinchi .p1 {
+  color: gray;
+  font-weight: 800;
+}
+.uchinchi {
+  width: 179px;
+  height: 244px;
+}
+.uchinchi .p2 {
+  color: gray;
+  margin-top: 10px;
+  
+}
+.uchinchi .p1 {
+  font-weight: 800;
+  padding-top: 7px;
+  margin-bottom: 15px;
+  color: gray;
+}
+
 
