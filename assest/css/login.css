@@ -134,7 +134,7 @@ nav>.menu {
 }
 .tex {
   display: block;
-  text-align: center;
+  text-align: center; 
   margin-top: 20px;
   color: red;
   text-decoration: none;
